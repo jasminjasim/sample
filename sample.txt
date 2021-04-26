@@ -1,6 +1,13 @@
 hellooo...how are you
 
 super heroooo
+<<<<<<< HEAD
 hellooo i am jasmin
 
 for ne merging
+=======
+
+
+
+for newbranch editinggggg
+>>>>>>> newbranch
